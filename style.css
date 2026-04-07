@@ -37,10 +37,9 @@ body * {
 
 /* Exemplo de caixa utilizando borda solida */
 #container0 {
-  width: 360px;
-  /* height: 712px; */
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 36px;
-  /* border: 1px solid red; */
   padding: 0 24px;
 }
 
